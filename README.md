@@ -1,0 +1,2 @@
+# FastAPIExceptionsControl
+Exceptions control
